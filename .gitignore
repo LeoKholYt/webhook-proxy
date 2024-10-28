@@ -1,6 +1,7 @@
 node_modules/
 dist/
 blocklist.json
+yarn.lock
 
 proxy.db
 proxy.db-journal
